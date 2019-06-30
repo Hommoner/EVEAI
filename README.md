@@ -8,8 +8,23 @@ Example code for:
 LabVIEW/C++ builder/Delphi/Visual Studio C++/Visual Studio C#
 
 # Installation
+1. Installer for EVEAI runtime
 
-# Uninstallation
+  CPU Version:
+
+  GPU Version:
+
+2. Installer for EVEAI training Tool
+
+3. Installer for EVEAI dll and example codes
+
+4. Installer for Examples:
+
+Malaria Cell Images Dataset:
+
+LEGO brick Images Dataset:
+
+Dogs and Cats Images Dataset:
 
 # Development
 EVEAI dll is written in C++ Builder using Embarcadero RAD Studio 10.3.1 Rio Community Edition.
