@@ -10,9 +10,9 @@ LabVIEW/C++ builder/Delphi/Visual Studio C++/Visual Studio C#
 # Installation
 1. Installer for EVEAI runtime
 
-  CPU Version:
+    [CPU tf1.14.0 Version](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20Installer%20GPU_1.4.0%2020190629.exe/download)
 
-  GPU Version:
+    [GPU tf1.4.0 Version](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20Installer%20GPU_1.4.0%2020190629.exe/download)
 
 2. Installer for EVEAI training Tool
 
@@ -20,11 +20,11 @@ LabVIEW/C++ builder/Delphi/Visual Studio C++/Visual Studio C#
 
 4. Installer for Examples:
 
-Malaria Cell Images Dataset:
+      Malaria Cell Images Dataset:
 
-LEGO brick Images Dataset:
+      LEGO brick Images Dataset:
 
-Dogs and Cats Images Dataset:
+      Dogs and Cats Images Dataset:
 
 # Development
 EVEAI dll is written in C++ Builder using Embarcadero RAD Studio 10.3.1 Rio Community Edition.
