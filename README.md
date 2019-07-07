@@ -21,7 +21,8 @@ Delphi/CVI/Visual Studio C#
 
 2. Installer for EVEAI training Tool ,EVEAI dll and example codes
 
-    [EVEAI](https://sourceforge.net/projects/project-eveai/files/EVE%20AI%2020190706.exe/download)
+    [EVEAI](https://sourceforge.net/projects/project-eveai/files/EVE%20AI%2020190706.exe/download) 
+    [User Manual](https://github.com/Hommoner/EVEAI/blob/master/EVE Training Tool User Manual.md)
 
 3. Installer for Trained Examples:
 
