@@ -1,11 +1,13 @@
 # EVE Training Tool
 
+## Lunch View
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%231.png)
 
 (A).Select EVE Run-Time Engine
 
 (B).Click Button and wait for lunch finish. Tensorflow+Keras spend more time during first lunch.
 
+## Project View
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%232.png)
 
 If lunch finished successfully,UI will change to project view, here we can add new project or see trained projects.
@@ -18,6 +20,7 @@ If lunch finished successfully,UI will change to project view, here we can add n
 
 (D).EVE Training Tool version and EVE Run-time engine version.
 
+## Training Setup View
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%233.png)
 
 (A).Model training and validate image folders and paramters. 
@@ -32,8 +35,9 @@ Click button "Update" to change settings and click button "Preview" to see how p
 
 (D).Click "Start Train"  button to strat train model. 
 
-
+## Predict View
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%235.png)
+
 
 (A).List all images from model training and validate image folders , click image name to show image in (D)
 
@@ -42,7 +46,7 @@ Click button "Update" to change settings and click button "Preview" to see how p
   <img width="512" src="https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%236.png">
 </p>
 
-
+## Training Status View
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Training%20Tool%237.png)
 
-Training UI display current and best training result.
+Display current and best training result.
