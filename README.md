@@ -6,11 +6,7 @@ EVEAI dll allows embedding inference images from keras models into user-written 
 
 Example code for:
 
-LabVIEW/C++ builder/Visual Studio C++
-
-Not ready:
-
-Delphi/CVI/Visual Studio C#
+LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
 
 ## Installation
 1. Installer for EVEAI runtime
