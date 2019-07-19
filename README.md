@@ -23,7 +23,7 @@ LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
        
 2. Installer for EVEAI training Tool ,EVEAI dll and example codes
 
-    Download Link:[EVEAI](https://sourceforge.net/projects/project-eveai/files/EVE%20AI%2020190706.exe/download) 
+    Download Link:[EVEAI](https://sourceforge.net/projects/project-eveai/files/EVE%20AI%2020190707.exe/download) 
     
     [User Manual](./EVE%20Training%20Tool%20User%20Manual.md)
 
