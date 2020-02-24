@@ -25,8 +25,6 @@ This algorithm source code is written by [fizyr](https://github.com/fizyr/keras-
 
 [![Chinese Chess](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20MaskRCNN%20Chinese%20Chess.png)](https://youtu.be/7JZAZnk6Gss)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7JZAZnk6Gss/0.jpg)](https://www.youtube.com/watch?v=7JZAZnk6Gss)  
-
 Example code for:
 
 LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
