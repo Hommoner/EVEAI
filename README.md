@@ -2,7 +2,27 @@
 EVEAI is a Deep Learning Library based on python Keras and Tensorflow.
 EVEAI dll allows embedding inference images from keras models into user-written applications. Under Windows, the EVEAI training Tool provides services to train user specific image datasets and EVEAI dll provides services to existing Windows applications which support inference images.
 
+## Vision Applications
+
+### Image Classification:
+Assigning a label to an image, for example:Labeling an image is a cat or a dog.
+
 ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20flow.png)
+
+
+### Semantic Segmentation
+Segmenting pixels in an image to different categories of object, for example: street view image segmentation.
+
+![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20Semantic%20Segmentation.png)
+
+this demo images are from[ KITTI VISUAL ODOMETRY DATASET](http://cvlibs.net/datasets/kitti/eval_semantics.php)
+
+### Object Detection(MaskRCNN) (only inference,working for annotation tool)
+Tracking multiple objects in an image,for example: real-time tracking chinese chess positions.
+
+![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20Object%20Detection(MaskRCNN).png)
+
+[![Chinese Chess](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20MaskRCNN%20Chinese%20Chess.png)](https://www.youtube.com/watch?v=7JZAZnk6Gss&t=53s)
 
 Example code for:
 
