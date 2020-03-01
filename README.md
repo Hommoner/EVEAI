@@ -32,19 +32,19 @@ LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
 ## Installation
 1. Installer for EVEAI runtime
 
-    Download Link:[CPU tensorflow1.14.0 Version](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20Installer%20CPU_1.14.0%2020200223.exe/download)
+    Download Link:[CPU tensorflow1.14.0 Version](https://drive.google.com/open?id=18nIOy_KUyxRPplRRAdWRaQlom9xRzoJc)
     
     *    No GPU needed but process speed is lower than GPU version.
     *    It's almost impossible for train models , but still usefual for predict.
 
-    Download Link:[GPU tensorflow1.14.0 Version](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20Installer%20GPU_1.14.0%2020200223.exe/download)
+    Download Link:[GPU tensorflow1.14.0 Version](https://drive.google.com/open?id=1sYGX3prK07pqgQ5TjFnasn5MRXYKUIxR)
 
     *    Need Nvidia GPU Compute Capability > 3.5 [tensorflow link](https://www.tensorflow.org/install/gpu)
     *    Need NVIDIA Driver version > 410.x [Nvidia driver link](https://www.nvidia.com/Download/index.aspx?lang=en-us)
        
 2. Installer for EVEAI training Tool ,EVEAI dll and example codes
 
-    Download Link:[EVEAI](https://sourceforge.net/projects/project-eveai/files/EVE%20AI%2020200223.exe/download) 
+    Download Link:[EVEAI](https://drive.google.com/open?id=1sTfaMhOapLOW6dBGzAjcWiYoIxNFDGl7) 
     
     [User Manual](./EVE%20Training%20Tool%20User%20Manual.md)
 
