@@ -51,28 +51,28 @@ LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
 3. Installer for Trained Examples:
 
 ### Image Classification:
-    Download Link:[Fruilt 360 Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Fruit-360%20Installer.exe/download)
+Download Link:[Fruilt 360 Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Fruit-360%20Installer.exe/download)
       
-    Download Link:[Malaria Cell Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Malaria%20Cell%20Dataset%20Installer.exe/download)
+Download Link:[Malaria Cell Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Malaria%20Cell%20Dataset%20Installer.exe/download)
 
-    Download Link:[LEGO brick Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20LEGO%20brick%20Dataset%20Installer.exe/download)
+Download Link:[LEGO brick Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20LEGO%20brick%20Dataset%20Installer.exe/download)
 
-    Download Link:[Dogs and Cats Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Dogs%20and%20Cats%20Installer.exe/download)
+Download Link:[Dogs and Cats Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Dogs%20and%20Cats%20Installer.exe/download)
       
-    Download Link:[Flowers Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Flowers%20Installer.exe/download)
+Download Link:[Flowers Image Dataset](https://sourceforge.net/projects/project-eveai/files/EVE%20Deep%20Learning%20Toolkit%20example%20for%20Flowers%20Installer.exe/download)
 
 ### Semantic Segmentation
-    Download Link:[Car Video Dataset](https://drive.google.com/open?id=1Tox_ZpiqXi9COaNw98UmcrApVSlFcWUV)
-    ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg03.png)
+Download Link:[Car Video Dataset](https://drive.google.com/open?id=1Tox_ZpiqXi9COaNw98UmcrApVSlFcWUV)
+![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg03.png)
     
-    Download Link:[KolektorSDD Dataset](https://drive.google.com/open?id=1yqYOW8fUMXjGdLKWiPjlKGIW5rqv4SkL)
-    this images are from[Visual Cognitive Systems Laboratory](https://www.vicos.si/Downloads/KolektorSDD)
+Download Link:[KolektorSDD Dataset](https://drive.google.com/open?id=1yqYOW8fUMXjGdLKWiPjlKGIW5rqv4SkL)
+this images are from[Visual Cognitive Systems Laboratory](https://www.vicos.si/Downloads/KolektorSDD)
     
-    ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg01.png)
-    ![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg02.png)
+![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg01.png)
+![Settings Window](https://github.com/Hommoner/EVEAI/blob/master/images/Seg02.png)
     
 ### Object Detection(MaskRCNN)
-    Download Link:[Chinese Chess Dataset](https://drive.google.com/open?id=1CF2oOOiepQ3l4Gx8K-ub4zheNUtyk_7y)
+Download Link:[Chinese Chess Dataset](https://drive.google.com/open?id=1CF2oOOiepQ3l4Gx8K-ub4zheNUtyk_7y)
 
 ## Development
 EVEAI dll is written in C++ Builder using Embarcadero RAD Studio 10.3.1 Rio Community Edition.
