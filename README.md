@@ -25,10 +25,6 @@ This algorithm source code is written by [fizyr](https://github.com/fizyr/keras-
 
 [![Chinese Chess](https://github.com/Hommoner/EVEAI/blob/master/images/EVEAI%20MaskRCNN%20Chinese%20Chess.png)](https://youtu.be/7JZAZnk6Gss)
 
-Example code for:
-
-LabVIEW/C++ builder/Visual Studio C++ (plan to:Delphi/CVI/Visual Studio C#)
-
 ## Installation
 1. Installer for EVEAI runtime
 
@@ -73,6 +69,18 @@ this images are from[Visual Cognitive Systems Laboratory](https://www.vicos.si/D
     
 ### Object Detection(MaskRCNN)
 Download Link:[Chinese Chess Dataset](https://drive.google.com/open?id=1CF2oOOiepQ3l4Gx8K-ub4zheNUtyk_7y)
+
+### Example code
+
+LabVIEW
+(https://youtu.be/baybKe7CMdU)
+
+C++ builder
+(https://youtu.be/2BYF84C7bdE)
+
+
+Visual Studio C++ 
+(plan to:Delphi/CVI/Visual Studio C#)
 
 ## Development
 EVEAI dll is written in C++ Builder using Embarcadero RAD Studio 10.3.1 Rio Community Edition.
