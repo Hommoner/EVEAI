@@ -12,7 +12,7 @@
 
 4. Setup parameters
 
-![Parameters](https://github.com/Hommoner/EVEAI/blob/master/images/casting%20product%20image%20data%20for%20quality%20inspection%20Parameters.png)
+![Parameters](https://github.com/Hommoner/EVEAI/blob/master/images/casting%20product%20image%20data%20for%20quality%20inspection%20Parameters.PNG)
 
 5. Click "Start train" button and wait for Val Acc more than 99.6%
 
