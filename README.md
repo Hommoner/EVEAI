@@ -40,7 +40,7 @@ This algorithm source code is written by [fizyr](https://github.com/fizyr/keras-
        
 2. Installer for EVEAI training Tool ,EVEAI dll and example codes
 
-    Download Link:[EVEAI](https://drive.google.com/open?id=1sTfaMhOapLOW6dBGzAjcWiYoIxNFDGl7) 
+    Download Link:[EVEAI](https://drive.google.com/file/d/1mE-9S1zeIJWiObLMTza4P1eBYdKMS0s2/view?usp=sharing) 
     
     [User Manual](./EVE%20Training%20Tool%20User%20Manual.md)
 
